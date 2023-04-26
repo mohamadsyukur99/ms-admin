@@ -1,0 +1,86 @@
+{
+  "title": [
+    {
+      "title": "Data user"
+    },
+    {
+      "description": "Untuk mengolah data user"
+    },
+    {
+      "bacrum": [
+        "home",
+        "data user"
+      ]
+    }
+  ],
+  "filter": [
+    {
+      "id": 1,
+      "name": "nama",
+      "label": "nama",
+      "type": "text"
+    },
+    {
+      "id": 1,
+      "name": "nama",
+      "label": "nama",
+      "type": "text"
+    },
+    {
+      "id": 1,
+      "name": "nama",
+      "label": "nama",
+      "type": "text"
+    },
+    {
+      "id": 1,
+      "name": "nama",
+      "label": "nama",
+      "type": "text"
+    }
+  ],
+  "foormEditor": [
+    {
+      "id": 1,
+      "name": "nama",
+      "label": "nama",
+      "type": "text"
+    },
+    {
+      "id": 1,
+      "name": "nama",
+      "label": "nama",
+      "type": "text"
+    },
+    {
+      "id": 1,
+      "name": "nama",
+      "label": "nama",
+      "type": "text"
+    },
+    {
+      "id": 1,
+      "name": "nama",
+      "label": "nama",
+      "type": "text"
+    }
+  ],
+  "table": [
+    {
+      "name": "nama",
+      "type": "nama"
+    },
+    {
+      "name": "username",
+      "type": "nama"
+    },
+    {
+      "name": "level",
+      "type": "nama"
+    },
+    {
+      "name": "status",
+      "type": "nama"
+    }
+  ]
+}
